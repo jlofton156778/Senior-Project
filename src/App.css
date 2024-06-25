@@ -1,0 +1,152 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.playstation,
+.steam,
+.xbox,
+.sign-up
+{
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.playstation {
+  background-image: url('https://download.logo.wine/logo/PlayStation/PlayStation-Logo.wine.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #181085;
+  font-size: 0px;
+}
+
+.steam {
+  background-image: url('https://download.logo.wine/logo/Steam_(service)/Steam_(service)-Logo.wine.png');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #242424;
+  font-size: 0px;
+}
+
+.xbox {
+  background-image: url('https://assets.xboxservices.com/assets/48/de/48de604b-99ee-4400-a600-6958a71f0959.jpg?n=Microsoft-Store-2018_Priority-Feature-0_Pay_1040x585.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #242424;
+  font-size: 0px;
+}
+
+.sign-up {
+  background-image: url('https://static.vecteezy.com/system/resources/previews/006/796/597/non_2x/cute-trophy-flat-design-illustration-free-vector.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #242424;
+  font-size: 100px;
+}
+
+.howitworksh1 {
+  color: #242424;
+  font-size: 60px;
+}
+
+.howitworksp1 {
+  color: #242424;
+  font-size: 25px;
+  display: flex;
+  height: 75vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.authorsh1 {
+  color: #242424;
+  font-size: 60px;
+}
+
+.authorsh2 {
+  color: #242424;
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.authorsp1 {
+  color: #242424;
+  font-size: 25px;
+  display: flex;
+  height: 40vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.codeh1 {
+  color: #242424;
+  font-size: 60px;
+}
+
+.codep1 {
+  color: #242424;
+  font-size: 25px;
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.imagesh1 {
+  color: #242424;
+  font-size: 60px;
+}
+
+.imagesh2 {
+  color: #242424;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.imagesh3 {
+  color: #242424;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.imagesh4 {
+  color: #242424;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.imagesp1 {
+  color: #242424;
+  font-size: 25px;
+  display: flex;
+  height: 75vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.imagesp2 {
+  color: #242424;
+  font-size: 25px;
+  display: flex;
+  height: 75vh;
+  align-items: center;
+  justify-content: center;
+}

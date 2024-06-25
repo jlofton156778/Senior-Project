@@ -1,2 +1,1 @@
-# Senior-Project
-This is the complete website code for Trophy and Achievement Tracker
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
